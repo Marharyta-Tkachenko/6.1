@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(26,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(27,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(28,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(29,7): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(41,48): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(43,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(44,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.h(60,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(4,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(13,90): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(26,34): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(38,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(73,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(86,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(95,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(110,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(165,58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(177,10): warning C4244: 'initializing': conversion from 'Array::value_type' to 'int', possible loss of data
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(182,17): warning C4244: '=': conversion from 'Array::value_type' to 'int', possible loss of data
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Lab_6.1\Array.cpp(191,11): warning C4244: 'initializing': conversion from 'Array::value_type' to 'int', possible loss of data
+C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\UnitTest1\UnitTest1.cpp(25,12): warning C4244: 'initializing': conversion from 'Array::value_type' to 'int', possible loss of data
+     Creating library C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Debug\UnitTest1.lib and object C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab_6.1\Debug\UnitTest1.dll
